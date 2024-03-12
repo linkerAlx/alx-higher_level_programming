@@ -1,1 +1,1 @@
-python projecct
+PYTHON PROJECT
