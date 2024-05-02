@@ -1,2 +1,1 @@
-Requirements
-Python Scripts
+PYTHON PROJECT
